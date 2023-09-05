@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.51e9344d.css",
+    "main.js": "/static/js/main.d3a4be5a.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/ContactUS.jpg": "/static/media/ContactUS.d882acc23705f1f5b82a.jpg",
+    "static/media/AbdullahRsume.pdf": "/static/media/AbdullahRsume.7d959b54035ff8934130.pdf",
+    "index.html": "/index.html",
+    "main.51e9344d.css.map": "/static/css/main.51e9344d.css.map",
+    "main.d3a4be5a.js.map": "/static/js/main.d3a4be5a.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51e9344d.css",
+    "static/js/main.d3a4be5a.js"
+  ]
+}
